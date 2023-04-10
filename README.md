@@ -1,4 +1,4 @@
-// Questions will be asked
+
 const Questions = [{
 
         id: 0,
