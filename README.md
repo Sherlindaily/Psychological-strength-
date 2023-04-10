@@ -1,5 +1,5 @@
 # Psychological-strength-
-# Psychology learning
+# Quiz
 ## Tips to control anger
 ### Learn to sound judgement
 **bold text**
