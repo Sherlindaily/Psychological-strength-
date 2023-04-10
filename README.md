@@ -1,6 +1,6 @@
 # Psychological-strength-
 # Quiz
-## Tips to control anger
+## Answer the following Riddles
 ### Learn to sound judgement
 **bold text**
 1. Psychological tricks with gestures
