@@ -1,7 +1,7 @@
 # Psychological-strength-
 # Psychology learning
-## H2
-### H3
+## Tips to control anger
+### Learn to sound judgement
 **bold text**
 1. First item
 2. Second item
