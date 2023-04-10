@@ -1,5 +1,5 @@
 # Psychological-strength-
-# H1
+# Psychology learning
 ## H2
 ### H3
 **bold text**
