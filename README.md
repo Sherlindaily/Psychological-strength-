@@ -3,7 +3,7 @@
 <body>
 
 <h1>What is Comet</h1>
-<p>an object in space that looks like a bright star with a tail and that moves around the sun.</p>
+<p>An object in space that looks like a bright star with a tail and that moves around the sun.</p>
 
 </body>
 </html>
